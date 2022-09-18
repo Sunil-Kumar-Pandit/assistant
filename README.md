@@ -1,4 +1,4 @@
-# assistant
+# Assistant
 This is the basic desktop assistant code to get latest News and current  weather. 
 Code is developed in python language 
 To Run this program you have to install some dependence.
